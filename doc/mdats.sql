@@ -1,0 +1,11 @@
+
+--
+CREATE TABLE mdats(
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  mdate TIMESTAMP,
+  hnum INTEGER,
+  lnum INTEGER,
+  uid INTEGER,
+  up_date TIMESTAMP
+);
+
